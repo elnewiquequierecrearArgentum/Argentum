@@ -1,0 +1,5 @@
+PARA COMPILAR:
+
+-> pararse en /build (crearlo si no existe)
+-> cmake ..
+-> make && make install

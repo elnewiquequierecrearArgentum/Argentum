@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# all build files
+build/*
+
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles
+Makefile
+install_manifest.txt
+server/server_autogen
+client/client_autogen
+
+client/client
+server/server
+
+server/status/*
