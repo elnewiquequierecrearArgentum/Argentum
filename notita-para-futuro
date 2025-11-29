@@ -1,0 +1,22 @@
+Hola amigos, la verdad rescatando este proyecto creo que hay que hacerle varias modificaciones 
+-Primero crear un cliente para Windows 
+-Agregar todas las razas de Argetum
+HUMANO
+ELFO
+ELFO OSCURO
+GNOMO
+ENANO
+-Agregar todas las clases de Argentum
+MAGO
+DRUIDA
+CLERIGO
+BARDO
+PALADIN
+ASESINO
+GUERRERO
+CAZADOR
+PIRATA
+TRABAJADOR
+-Agregar mas mapas unos 100 mapas relacionados
+-Cambiar que no aparezca un mapa con cambiar las flechas
+-Mejora de las mecanicas
