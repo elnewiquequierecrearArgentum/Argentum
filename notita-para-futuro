@@ -1,11 +1,21 @@
 Hola amigos, la verdad rescatando este proyecto creo que hay que hacerle varias modificaciones 
+PRIMERA PARTE
 -Primero crear un cliente para Windows 
+-Agregar mas mapas unos 100 mapas relacionados
+-Cambiar que no aparezca un mapa con cambiar las flechas
+SEGUNDA PARTE
 -Agregar todas las razas de Argetum
 HUMANO
 ELFO
 ELFO OSCURO
 GNOMO
 ENANO
+-Agregar tambien la siguiente 5 razas mas a inventar
+HADA
+VAMPIRO
+TROL
+HOBIE
+DUENDE
 -Agregar todas las clases de Argentum
 MAGO
 DRUIDA
@@ -17,6 +27,6 @@ GUERRERO
 CAZADOR
 PIRATA
 TRABAJADOR
--Agregar mas mapas unos 100 mapas relacionados
--Cambiar que no aparezca un mapa con cambiar las flechas
+TERCERA PARTE
 -Mejora de las mecanicas
+-Mejorar el modelo de mensajeria
